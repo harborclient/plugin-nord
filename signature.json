@@ -14,7 +14,7 @@
     },
     {
       "path": "dist/theme.css",
-      "sha256": "0deaa05d47a9a1fbda35c9da5ab124a08f1b154adbd2c4bbcd45933519bf5668"
+      "sha256": "2c88c0abaaa8a8edededfc9b1106b051435686258e62033ba108a5b323923c05"
     },
     {
       "path": "manifest.json",
@@ -30,7 +30,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "356b9a8730708d531e7638172df230e29a01c7a9a0a89e97cceb8e5a31936121"
+      "sha256": "fd57852850af30dfe0193d83c7aebecfcb8da8db0249b420cb642c725af5ed9e"
     },
     {
       "path": "screenshot.png",
@@ -50,7 +50,7 @@
     },
     {
       "path": "scripts/screenshot-marketing.html",
-      "sha256": "fd8cc46ad0adfb09aec4abe7e312c3d3fd1b70300f3d0af57e4c9117c9b848c6"
+      "sha256": "9f8b76d4f7750eaf8e165013b6fcfd06d2c07f7bbaf2344aa36ddf294a1f5b6f"
     },
     {
       "path": "src/renderer.tsx",
@@ -58,13 +58,12 @@
     },
     {
       "path": "src/theme.css",
-      "sha256": "0deaa05d47a9a1fbda35c9da5ab124a08f1b154adbd2c4bbcd45933519bf5668"
+      "sha256": "2c88c0abaaa8a8edededfc9b1106b051435686258e62033ba108a5b323923c05"
     },
     {
       "path": "tsconfig.json",
       "sha256": "dced0ea880bec6222ac9856d3d2ce11b91fd874298f3129c8b5944606dc73668"
     }
   ],
-  "keyId": "harborclient-official",
-  "signature": "8hMz6nqUuh18QaOG2l4x19EEpe7jxJUV/zeoX8QWPBt7LdKfZ4f9jugU1vGuRl8Kg04HRb5iiYSCEbk4azHaDQ=="
+  "signature": "vWdMjJFCJwAEOMQicvlj8Y8Kdw84bVgyoNPrD02Y7E6OQYo9pQcKsrhd1kB+Vhlqnrff9soua7+AraY5R2Z0Dg=="
 }

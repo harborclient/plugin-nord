@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "pluginId": "com.harborclient.plugins.nord",
-  "pluginVersion": "1.0.1",
+  "pluginVersion": "1.0.2",
   "algorithm": "Ed25519",
   "files": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "path": "dist/renderer.js",
-      "sha256": "e3802202784db82b8d2ce386a8a5512dd5c20d455aacabbea92efa353e6bd071"
+      "sha256": "e720e01de050eb0bdfbd2f8eb194cb618a1035dda1d041a8d0273e91c9a2319e"
     },
     {
       "path": "dist/theme.css",
@@ -18,15 +18,15 @@
     },
     {
       "path": "manifest.json",
-      "sha256": "b1d58f72c5054fb623e0bcd9c67846c57e72dbbe98ec0cb91eb54f0635fe2a46"
+      "sha256": "b6d23e7236989c95a933bf28cd2148b7cf5f00dbec8b4f19e7705a4758acbfe4"
     },
     {
       "path": "package.json",
-      "sha256": "39e3841479566970b1380e3312951f107c6579d098e62267a2874ecc3d01c1ff"
+      "sha256": "2c24273d3bfcfe5a01fb08969b4be6b3f489f5d700385611f2eb693ae14b16d7"
     },
     {
       "path": "pnpm-lock.yaml",
-      "sha256": "9b7ee16b5557abcac40b37b8e35794e8e7ae8a8d1ce92fd677dead6d4275376b"
+      "sha256": "d761af9eb8f77808546420b2d2b00beec7f73020bc060d2136dea61133eb03f1"
     },
     {
       "path": "README.md",
@@ -35,6 +35,10 @@
     {
       "path": "screenshot.png",
       "sha256": "353122b31459cfb99fa71131c96a73d0be02a38fbbec71a27aa8af9b890e8a7d"
+    },
+    {
+      "path": "scripts/build.mjs",
+      "sha256": "c8cce2a4036c8075113f9dfa037a427e2900bfbe2246d085eb10a5c19437032d"
     },
     {
       "path": "scripts/plugin-sign.ts",
@@ -54,7 +58,7 @@
     },
     {
       "path": "src/renderer.tsx",
-      "sha256": "b4a2d74cb5e930e7170212755a873d799d5978cb7a43fa8a302a79cb888d60a9"
+      "sha256": "81e959d7e09f666a3e602dbca96298551b09af5d0d420387dcd5ccd50d3dcfc8"
     },
     {
       "path": "src/theme.css",
@@ -62,8 +66,8 @@
     },
     {
       "path": "tsconfig.json",
-      "sha256": "dced0ea880bec6222ac9856d3d2ce11b91fd874298f3129c8b5944606dc73668"
+      "sha256": "663c22f2cb634722bc1c1191c4808b53c89d930979d4936cb6d0a539f4476ac9"
     }
   ],
-  "signature": "X/b1B6ZeLJAVlh2RTyVQuwxzS6AvwuDPw+iy4gkyRJr0HhfVMz0WAHUz7wH9X6qUDOqNe1go+E700jDlat10CA=="
+  "signature": "cCAl2PVmM5CwR7eJdZSz5zU6Xc4FE4HNORvIN+dUJzQEd9N6APKt+Cd/PQmvzcSvzrhQD1hXLHLnF79+u+5iDw=="
 }

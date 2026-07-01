@@ -1,14 +1,13 @@
 {
   "id": "com.harborclient.plugins.nord",
   "name": "Nord Theme",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "HarborClient",
   "description": "README.md",
+  "summary": "A Nord theme for HarborClient with custom scrollbars, focus rings, and aurora styling via stylesheet.",
+  "categories": ["themes"],
   "screenshots": [
-    {
-      "path": "screenshot.png",
-      "caption": "Nord in Settings → General → Appearance"
-    }
+    "https://raw.githubusercontent.com/harborclient/plugin-nord/main/screenshot.png"
   ],
   "homepage": "https://github.com/harborclient/plugin-nord",
   "bugs": {
